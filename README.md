@@ -1,4 +1,4 @@
-# Traveling Salesman Problem solutions
+# Solutions to the Traveling Salesman Problem
 TSP is one of the most popular and classic optimization problems. The seller wants to visit all cities with the least effort possible and return to the starting point. Additional criteria can also be defined.
 
 In this work several techniques to solve the TSP problem were implemented:
